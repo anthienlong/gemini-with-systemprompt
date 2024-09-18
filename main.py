@@ -20,7 +20,7 @@ n = 70  #Number of historical records to keep
 generation_config = {
     "temperature": 1,
     "top_p": 1,
-    "top_k": 35,
+    "top_k": 34,
     "max_output_tokens": 2048,
 }
 

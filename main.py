@@ -6,6 +6,7 @@ import re
 import telebot
 from telebot.async_telebot import AsyncTeleBot
 from telebot.types import  Message
+from dotenv import load_dotenv
 
 gemini_player_dict = {}
 gemini_pro_player_dict = {}
